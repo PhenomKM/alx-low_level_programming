@@ -12,5 +12,5 @@ int main(void)
 		printf("%i", i);
 	}
 	printf("\n");
-	Return (0);
+	return (0);
 }
