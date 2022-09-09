@@ -5,7 +5,7 @@
  * not allowed to use any variable of type char.
  * and can only use `putchar` twice to print to console.
  * Return: 0
- */      
+ */
 int main(void)
 {
 	int a;
