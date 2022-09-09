@@ -3,7 +3,6 @@
 #include <stdio.h>
 /**
  * main - Prints out random sizes of various data.
- * 
  * Description: using the main function
  * this program prints a statement.
  * Return: 0 if success
