@@ -3,7 +3,7 @@
  * main - print positive, zero or negative
  * Description: using the main function
  * this program prints numbers
- * Return 0
+ * Return: 0
  */
 int main(void)
 {
