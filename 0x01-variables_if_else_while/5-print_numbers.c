@@ -1,12 +1,14 @@
 #include <stdio.h>
 /**
- * main - main block
- * Description: Print all numbers of base 10, from 0 to 10.
+ * main - print positive, zero or negative
+ * Description: using the main function
+ * this program prints numbers
  * Return 0
  */
 int main(void)
 {
 	int i;
+
 	for (i = 0; i < 10; i++)
 	{
 		printf("%i", i);
